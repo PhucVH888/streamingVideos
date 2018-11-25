@@ -1,0 +1,1 @@
+Streaming videos problem is the problem that requires to decide which videos to put in which cache servers in order to minimise the waiting time for all requests with a description of cache servers, network endpoints and videos are given.
