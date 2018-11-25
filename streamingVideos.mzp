@@ -1,0 +1,44 @@
+{
+    "builtinSolverConfigs": [
+    ],
+    "openFiles": [
+        "streamingVideos.mzn",
+        "streamingVideosBinPacking.mzn",
+        "bin_packing_load1.mzn",
+        "streaming/1warm_up.dzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "bin_packing_load1.mzn",
+        "streaming/1warm_up.dzn",
+        "streamingVideos.mzn",
+        "streamingVideosBinPacking.mzn"
+    ],
+    "projectSolverConfigs": [
+        {
+            "additionalCompilerCommandline": "",
+            "additionalData": "",
+            "clearOutputWindow": false,
+            "compressSolutionOutput": 100,
+            "defaultBehavior": true,
+            "flatteningStats": false,
+            "freeSearch": false,
+            "id": "org.gecode.gecode",
+            "nThreads": 1,
+            "name": "Project solver configuration",
+            "optimizationLevel": 1,
+            "outputTiming": false,
+            "printIntermediate": false,
+            "runSolutionChecker": true,
+            "solverFlags": "",
+            "solvingStats": false,
+            "stopAfter": 1,
+            "timeLimit": 0,
+            "verboseFlattening": false,
+            "verboseSolving": false,
+            "version": "6.0.1"
+        }
+    ],
+    "selectedProjectConfig": 0,
+    "version": 105
+}

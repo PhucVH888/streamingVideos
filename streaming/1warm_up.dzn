@@ -1,0 +1,30 @@
+V = 5;
+E = 2;
+R = 4;
+realReq = 4;
+C = 3;
+X = 100;
+% total_connection = 3;
+
+videoSize = [50, 50, 80, 30, 110];
+
+videoInCap = [50, 50, 80, 30, 0];
+
+nReqVid = 2;
+
+reqVid = [0, 50, 0, 30, 0];
+
+% nUnReqVid = 3;
+
+% unreqVid = [50, 0, 80, 0, 110];
+
+endpoint = [| 1000, 3
+	| 500, 0 |];
+
+request = [| 4, 1, 1500
+	| 1, 2, 1000
+	| 5, 1, 500
+	| 2, 1, 1000 |];
+
+eConCache = [| 100, 300, 200
+		| 0, 0, 0 |]
